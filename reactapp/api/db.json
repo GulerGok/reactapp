@@ -1,0 +1,16 @@
+{
+    "users" : [       
+         {
+        "id":"unique-1",
+        "name":"GG",
+        "department":"Bilişim",
+        "salary":"10000"
+             },
+        {
+        "id":"unique-",
+        "name":"TK",
+        "department":"Elektronik",
+        "salary":"10001"
+             } 
+            ]
+}
